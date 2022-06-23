@@ -1,6 +1,3 @@
-# Practice
-Projects from my master degrees
-
 This is a school assessment project in my first semester of my part-time master degree. 
 The dataset is downloaded from Kaggle https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
